@@ -6,8 +6,6 @@ I'm a Fullstack developer.
 
 <!-- ![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png) -->
 
-<!-- ![Image alt]https://github.com/StanislavYurchenko/StanislavYurchenko/raw/master/img/git.svg){:height="36px" width="36px"}-->
-
 [Image alt](https://github.com/StanislavYurchenko/StanislavYurchenko/raw/master/img/git.svg)
 <img src="./img/html.svg" width="30" hight="30">
 <img src="./img/css.svg" width="30" hight="30">
@@ -61,4 +59,4 @@ I'm a Fullstack developer.
 
 [instagram]: https://instagram.com/did1van
 
-[linkedin]: https://www.linkedin.com/in/ivan-fesenko-ba56b21a5  --> -->
+[linkedin]: https://www.linkedin.com/in/ivan-fesenko-ba56b21a5  -->

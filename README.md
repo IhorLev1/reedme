@@ -8,7 +8,7 @@ I'm a Fullstack developer.
 
 <!-- ![Image alt]https://github.com/StanislavYurchenko/StanislavYurchenko/raw/master/img/git.svg){:height="36px" width="36px"}-->
 
-<!-- ![Image alt](https://github.com/StanislavYurchenko/StanislavYurchenko/raw/master/img/git.svg)
+[Image alt](https://github.com/StanislavYurchenko/StanislavYurchenko/raw/master/img/git.svg)
 <img src="./img/html.svg" width="30" hight="30">
 <img src="./img/css.svg" width="30" hight="30">
 <img src="./img/js.svg" width="30" hight="30">
@@ -18,7 +18,7 @@ I'm a Fullstack developer.
 <img src="./img/w3c.svg" width="30" hight="30">
 <img src="./img/webpack.svg" width="30" hight="30">
 <img src="./img/bootstrap.svg" width="30" hight="30">
-<img src="./img/adobe-photoshop.svg" width="30" hight="30"> -->
+<img src="./img/adobe-photoshop.svg" width="30" hight="30"> 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IhorLev1)](https://github.com/IhorLev1/reedme.md)
 

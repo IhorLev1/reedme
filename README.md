@@ -20,10 +20,8 @@ I'm a Fullstack developer.
 <img src="./img/bootstrap.svg" width="30" hight="30">
 <img src="./img/adobe-photoshop.svg" width="30" hight="30"> -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StanislavYurchenko)](https://github.com/StanislavYurchenko/stanislavyurchenko/blob/master/README.md)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IhorLev1)](https://github.com/IhorLev1/reedme.md)
 
-<!--
-**StanislavYurchenko/stanislavyurchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -35,7 +33,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <!-- <br />
 

@@ -23,7 +23,7 @@ I'm a Fullstack developer.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IhorLev1)](https://github.com/IhorLev1/reedme.md)
 
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+/>
 
 <!-- <br />
 
